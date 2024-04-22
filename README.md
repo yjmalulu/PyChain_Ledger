@@ -91,7 +91,7 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
    
 ![alt=""](Images/streamlit_1.png)
 
-![alt=""](Images/steamlit_2.png)
+![alt=""](Images/streamlit_2.png)
 
 ![alt=""](Images/terminal.png)
 ---
